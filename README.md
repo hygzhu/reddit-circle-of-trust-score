@@ -4,13 +4,13 @@ Userscript that shows the users flair from /r/CircleOfTrust in their inbox
 # Examples
 
 ## Users who have not betrayed a circle
-![alt text](images/Green.png "Users who have no betrayed")
+![alt text](https://raw.githubusercontent.com/hygzhu/reddit-circle-of-trust-score/master/images/Green.PNG "Users who have no betrayed")
 
 ## Users who have not betrayed a circle
-![alt text](images/Red.png "Users who have betrayed")
+![alt text](https://raw.githubusercontent.com/hygzhu/reddit-circle-of-trust-score/master/images/Red.PNG "Users who have betrayed")
 
 ## Users who that cannot have a retrieved flair
-![alt text](images/Grey.png "Users who are unknown")
+![alt text](https://raw.githubusercontent.com/hygzhu/reddit-circle-of-trust-score/master/images/Grey.PNG "Users who are unknown")
 
 # How To Install
 
